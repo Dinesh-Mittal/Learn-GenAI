@@ -14,3 +14,9 @@ Tried implementing extremely simple version of KV caching in LLMs. This is cruci
 Open to feedback:
 Blog link: https://sagarsarkale.com/blog/genai/kv-caching-demo/
 Github: https://github.com/sagarsrc/kv-caching 
+
+
+## Model and App Evaluation
+
+Application Evaluation and traceability
+https://www.comet.com/site/products/model-production-monitoring/

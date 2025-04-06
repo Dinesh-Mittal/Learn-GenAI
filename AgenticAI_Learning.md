@@ -59,16 +59,7 @@
 15. Reliable AI via Guardrails
 - https://lnkd.in/gAYQgXXT
 
-Not exhaustive list, still provides much-needed concept and clarity to move further
 
 If you are a business leader, we've developed frameworks that cut through the hype, including our five-level Agentic AI Framework to evaluate any agent's capabilities in my latest book.
 
 🔗 Book info: https://lnkd.in/gkdRzS3F
-
-What do you think about this report?
-
-Let me know in the comments below 👇
-
-Save 💾 ➞ React 👍 ➞ Share ♻️
-
-& follow for everything related to AI Agents
